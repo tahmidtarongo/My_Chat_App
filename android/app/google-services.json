@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532722203261",
+    "project_id": "flash-chat-4dd41",
+    "storage_bucket": "flash-chat-4dd41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532722203261:android:cc26e3ca3601f670178f14",
+        "android_client_info": {
+          "package_name": "com.wavetec.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532722203261-b3plujiuba4evd2lujrbnec1t3fafcq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdUUok2eJ8oyTrWNy--jqC1gv2wmLUmj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532722203261-b3plujiuba4evd2lujrbnec1t3fafcq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
